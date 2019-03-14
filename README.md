@@ -10,8 +10,7 @@ We also explore how much data we need to train a deep classifier.
 
 The repository contains training and testing data set files that together are 
 ~100Mb in size, so it may take a minute or two for downloading. In the meantime
-you can sest up your conda environment, you will be needing the following
-packages:
+you can set up your conda environment, e.g. if you are using unix like so:
 
 $ conda create -c conda-forge -n seismoDL101 python=3.6 jupyter numpy scipy obspy keras tensorflow scikit-learn seaborn pandas h5py
 
