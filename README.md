@@ -2,11 +2,11 @@
 Tutorial on seismic signal/noise classification; from linear to deep classifiers
 
 This tutorial is meant to be an introduction to machine and deep learning. We use
-seismic time series data from earthquakes and nuisance signals and train a
-suite of classifiers to discriminate between the two signal classes. We start from
-linear classifiers and keep increasing their complexity, to demonstrate to what 
-extent the deep convnet classifiers outperform shallower and linear ones. We also 
-explore how much data we need to train a deep classifier.
+seismic time series data from i) real earthquakes and ii) nuisance signals to 
+train a suite of classifiers to discriminate between the two signal classes. We 
+start from linear classifiers and keep increasing their complexity, to demonstrate 
+to what extent the deep convnet classifiers outperform shallower and linear ones. 
+We also explore how much data we need to train a deep classifier.
 
 The repository contains training and testing data set files that together are 
 ~100Mb in size, so it may take a minute or two for downloading. In the meantime
