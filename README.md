@@ -24,7 +24,7 @@ up by typing the following line in the terminal:
 
 $ conda create -c conda-forge -n seismoDL101 python=3.6 jupyter numpy scipy obspy keras tensorflow scikit-learn seaborn pandas h5py
 
-Then activate the environment (type 'source activate seismoDL101' in
+Then activate the environment (type 'conda activate seismoDL101' in
 terminal), and open the notebook (type 'jupyter notebook' in terminal), and you
 should be ready to ... explore machine and deep learning!
 
